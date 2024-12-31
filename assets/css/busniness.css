@@ -1,0 +1,35 @@
+.phonepay-brand {
+  width: 150px;
+  height: auto;
+}
+.text-black {
+  color: #000;
+}
+.text-black:hover {
+  color: blue !important;
+}
+.bg-navbar {
+  background-color: #000;
+}
+.banner-color {
+  background-color: #5f269f;
+}
+
+.grow {
+  padding-top: 130px;
+  padding-left: 107px;
+  color: #fff;
+}
+
+.capsul {
+  border-radius: 2rem;
+  display: flex;
+  background-color: #fff;
+  width: 80%;
+  height: 90px;
+  padding: 2%;
+  margin-top: -10%;
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+  margin: 100px;
+  justify-content: center;
+}
